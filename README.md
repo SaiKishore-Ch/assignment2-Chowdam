@@ -37,3 +37,10 @@ The below table has the food recommedations in maryville city. My personal choic
 |Pasta         |  A & G   |  $ 15   |
 |Coke          |Mc Donalds|  $ 1    |
 |MilkShake     |   Sonic  |  $ 3    |
+
+***
+
+# Quotes
+
+> "Peace is not only better than war, but infinitely more arduous." *George Bernard Shaw.*
+> "When the power of love overcomes the love of power, the world will know peace." *Jimi Hendrix.*
