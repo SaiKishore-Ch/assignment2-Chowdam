@@ -43,4 +43,5 @@ The below table has the food recommedations in maryville city. My personal choic
 # Quotes
 
 > "Peace is not only better than war, but infinitely more arduous." *George Bernard Shaw.*
+
 > "When the power of love overcomes the love of power, the world will know peace." *Jimi Hendrix.*
