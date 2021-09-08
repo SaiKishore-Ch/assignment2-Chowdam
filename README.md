@@ -19,11 +19,6 @@
 3. Take a seflie and post.
 
 
-
-Items to carry (unordered)
-
-
-
 * Cellphone is most important
 * Camera
     * lens
