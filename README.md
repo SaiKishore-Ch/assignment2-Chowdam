@@ -24,4 +24,4 @@
     * lens
     * tripod stand
 
-***
+**[Link to AboutMe.md file](AboutMe.md)**
