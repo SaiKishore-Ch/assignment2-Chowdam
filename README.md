@@ -29,7 +29,7 @@
 ***
 
 # FOOD RECOMMEDATIONS
-The below table has the food recommedations in maryville city. My personal choice would be Mc Chicken which is available in MC Donalds located opposite to AT & T , orange juice at macey's is simply amazing which is made of fresh pulp and adundant in vitamin c. For dinner white sauce pasta at A&G is just mouth watering its the chef's recommdation. I would suggest everyone to try these.
+The below table has the food recommedations in maryville city. My personal choice would be Mc Chicken which is available in MC Donalds located opposite to AT & T , Coke at Mc Donalds's is simply amazing which is made me feel fresh. For dinner white sauce pasta at A&G is just mouth watering its the chef's recommdation. I would suggest everyone to try these.
 
 | Food/Drinks  | Location | Price   |
 |--------------|----------|--------:|
