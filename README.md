@@ -6,9 +6,9 @@
 
 ***
 
-#### Directions to California
+#Directions to California
 
-***
+
 
 1. Take a cab to Kansas airport from Maryville.
     1. Book cab in Uber/Tap ride.
@@ -18,11 +18,11 @@
     2. Take a car and visit all your favourite places.
 3. Take a seflie and post.
 
-***
+
 
 Items to carry (unordered)
 
-***
+
 
 * Cellphone is most important
 * Camera
